@@ -26,4 +26,20 @@
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
