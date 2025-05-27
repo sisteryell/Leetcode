@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/isisteryell/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
