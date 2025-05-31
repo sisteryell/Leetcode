@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
+| [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sisteryell/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
