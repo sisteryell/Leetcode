@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -26,6 +27,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
