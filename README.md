@@ -10,6 +10,7 @@
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@
 | [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sisteryell/Leetcode/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sisteryell/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
@@ -100,4 +102,9 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sisteryell/Leetcode/tree/master/0547-number-of-provinces) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
