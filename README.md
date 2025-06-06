@@ -14,6 +14,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/isisteryell/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sisteryell/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
 ## Tree
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
