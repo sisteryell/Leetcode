@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/sisteryell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/sisteryell/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sisteryell/Leetcode/tree/master/0733-flood-fill) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sisteryell/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sisteryell/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
