@@ -41,6 +41,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sisteryell/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -113,10 +114,12 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/sisteryell/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sisteryell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -145,4 +148,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sisteryell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sisteryell/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Prefix Sum
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
