@@ -34,6 +34,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sisteryell/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sisteryell/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
@@ -62,6 +64,7 @@
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sisteryell/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/sisteryell/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sisteryell/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Tree
 |  |
 | ------- |
