@@ -1,7 +1,7 @@
 class Solution {
 public:
     int possibleStringCount(string word) {
-        int n=word.size(),ans=0;
+        int n=word.size(),ans=1;
         for(int i=0;i<n-1;) {
             int j=i+1;
             while(word[i]==word[j]){
@@ -10,6 +10,6 @@ public:
             }
             i=j;
         }
-        return ans+1;
+        return ans;
     }
 };
