@@ -2,18 +2,24 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n = height.size();
-        vector<int>prefix(n),suffix(n);
-        prefix[0]=height[0];
-        for(int i=1;i<n;i++) {
-            prefix[i]=max(prefix[i-1],height[i]);
-        }
-        suffix[n-1]=height[n-1];
-        for(int i=n-2;i>=0;i--) {
-            suffix[i]=max(suffix[i+1],height[i]);
-        }
-        int total = 0;
-        for(int i=0;i<n;i++) {
-            total = total + min(prefix[i],suffix[i])-height[i];
+        int i = 0, j = n - 1;
+        int lmax = 0, rmax = 0, total = 0;
+        while(i < j) {
+            if(height[i]<=height[j]) {
+                if(lmax > height[i]) {
+                    total = total + lmax - height[i];
+                } else {
+                    lmax = height[i];
+                }
+                i++;
+            } else {
+                if(rmax > height[j]) {
+                    total = total + rmax - height[j];
+                } else {
+                    rmax = height[j];
+                }
+                j--;
+            }
         }
         return total;
     }
