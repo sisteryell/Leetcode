@@ -29,6 +29,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sisteryell/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sisteryell/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sisteryell/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sisteryell/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@
 | [0322-coin-change](https://github.com/sisteryell/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sisteryell/Leetcode/tree/master/0518-coin-change-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
