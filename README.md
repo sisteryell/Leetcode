@@ -257,4 +257,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/sisteryell/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
