@@ -156,6 +156,7 @@
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Two Pointers
 |  |
@@ -275,4 +276,12 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/sisteryell/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/sisteryell/Leetcode/tree/master/0178-rank-scores) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
