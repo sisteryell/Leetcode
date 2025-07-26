@@ -6,6 +6,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/sisteryell/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sisteryell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sisteryell/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sisteryell/Leetcode/tree/master/0075-sort-colors) |
@@ -155,6 +156,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sisteryell/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -184,6 +186,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sisteryell/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sisteryell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
