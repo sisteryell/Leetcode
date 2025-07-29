@@ -40,6 +40,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sisteryell/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sisteryell/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sisteryell/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sisteryell/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -215,6 +216,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sisteryell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
 |  |
@@ -287,6 +289,7 @@
 | [0907-koko-eating-bananas](https://github.com/sisteryell/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,4 +313,8 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
