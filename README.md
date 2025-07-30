@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sisteryell/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sisteryell/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sisteryell/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/sisteryell/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sisteryell/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sisteryell/Leetcode/tree/master/0075-sort-colors) |
@@ -243,6 +245,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sisteryell/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sisteryell/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
