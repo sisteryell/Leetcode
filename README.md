@@ -59,6 +59,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sisteryell/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sisteryell/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sisteryell/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sisteryell/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -368,8 +370,10 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sisteryell/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/sisteryell/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
