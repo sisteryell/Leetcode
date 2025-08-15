@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/sisteryell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sisteryell/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sisteryell/Leetcode/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/sisteryell/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sisteryell/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sisteryell/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sisteryell/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -105,6 +106,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sisteryell/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sisteryell/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/sisteryell/Leetcode/tree/master/0020-valid-parentheses) |
+| [0068-text-justification](https://github.com/sisteryell/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/sisteryell/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0686-repeated-string-match](https://github.com/sisteryell/Leetcode/tree/master/0686-repeated-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -320,6 +322,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sisteryell/Leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/sisteryell/Leetcode/tree/master/0068-text-justification) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sisteryell/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
