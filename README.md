@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
+| [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -195,6 +196,7 @@
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/sisteryell/Leetcode/tree/master/0826-soup-servings) |
+| [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sisteryell/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sisteryell/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
