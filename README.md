@@ -279,6 +279,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sisteryell/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -358,6 +359,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -407,4 +409,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
