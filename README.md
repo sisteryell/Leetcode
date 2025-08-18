@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/sisteryell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/sisteryell/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/sisteryell/Leetcode/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/sisteryell/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sisteryell/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -198,6 +199,7 @@
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/sisteryell/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sisteryell/Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
@@ -338,6 +340,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search
 |  |
