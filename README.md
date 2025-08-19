@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/sisteryell/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sisteryell/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sisteryell/Leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/sisteryell/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sisteryell/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -109,6 +110,7 @@
 | [0041-first-missing-positive](https://github.com/sisteryell/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sisteryell/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sisteryell/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/sisteryell/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -323,6 +325,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sisteryell/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/sisteryell/Leetcode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
