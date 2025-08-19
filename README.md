@@ -18,6 +18,7 @@
 | [0068-text-justification](https://github.com/sisteryell/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sisteryell/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sisteryell/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sisteryell/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sisteryell/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sisteryell/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
@@ -369,6 +370,7 @@
 | [0039-combination-sum](https://github.com/sisteryell/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sisteryell/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sisteryell/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/sisteryell/Leetcode/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search
@@ -413,6 +415,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sisteryell/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sisteryell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
