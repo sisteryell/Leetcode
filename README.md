@@ -520,6 +520,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sisteryell/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sisteryell/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
 ## Design
@@ -548,6 +549,7 @@
 | [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/sisteryell/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sisteryell/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Memoization
 |  |
 | ------- |
