@@ -24,6 +24,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sisteryell/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sisteryell/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sisteryell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sisteryell/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@
 | [0053-maximum-subarray](https://github.com/sisteryell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sisteryell/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/sisteryell/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sisteryell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/sisteryell/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -104,6 +106,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sisteryell/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/sisteryell/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/sisteryell/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
@@ -133,6 +136,7 @@
 | [0076-minimum-window-substring](https://github.com/sisteryell/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sisteryell/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0686-repeated-string-match](https://github.com/sisteryell/Leetcode/tree/master/0686-repeated-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -359,6 +363,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/sisteryell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sisteryell/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -491,4 +496,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
