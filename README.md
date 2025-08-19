@@ -284,6 +284,7 @@
 | [0088-merge-sorted-array](https://github.com/sisteryell/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sisteryell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sisteryell/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sisteryell/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sisteryell/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sisteryell/Leetcode/tree/master/0283-move-zeroes) |
@@ -362,6 +363,7 @@
 | [0056-merge-intervals](https://github.com/sisteryell/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sisteryell/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sisteryell/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sisteryell/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -449,6 +451,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sisteryell/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sisteryell/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/sisteryell/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sisteryell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sisteryell/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -541,6 +544,7 @@
 | [0141-linked-list-cycle](https://github.com/sisteryell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sisteryell/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/sisteryell/Leetcode/tree/master/0148-sort-list) |
 ## Memoization
 |  |
 | ------- |
@@ -557,6 +561,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/sisteryell/Leetcode/tree/master/0148-sort-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
