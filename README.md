@@ -112,6 +112,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/sisteryell/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -140,6 +141,7 @@
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0686-repeated-string-match](https://github.com/sisteryell/Leetcode/tree/master/0686-repeated-string-match) |
+| [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sisteryell/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sisteryell/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -271,6 +274,7 @@
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sisteryell/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sisteryell/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sisteryell/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Matrix
