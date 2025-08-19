@@ -361,6 +361,7 @@
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sisteryell/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/sisteryell/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -539,6 +540,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/sisteryell/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
