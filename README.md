@@ -116,6 +116,7 @@
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sisteryell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sisteryell/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
@@ -519,6 +520,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
@@ -538,6 +540,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/sisteryell/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sisteryell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sisteryell/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
 ## Memoization
 |  |
 | ------- |
@@ -554,4 +557,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
