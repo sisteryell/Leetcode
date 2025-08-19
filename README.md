@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sisteryell/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sisteryell/Leetcode/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/sisteryell/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sisteryell/Leetcode/tree/master/0053-maximum-subarray) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sisteryell/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/sisteryell/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/sisteryell/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
