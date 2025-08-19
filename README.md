@@ -507,6 +507,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sisteryell/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
 ## Design
@@ -525,6 +526,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sisteryell/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Memoization
 |  |
