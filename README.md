@@ -38,6 +38,7 @@
 | [0940-fruit-into-baskets](https://github.com/sisteryell/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
+| [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sisteryell/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -115,6 +116,7 @@
 | [0686-repeated-string-match](https://github.com/sisteryell/Leetcode/tree/master/0686-repeated-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sisteryell/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -300,6 +302,7 @@
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sisteryell/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sisteryell/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -313,6 +316,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
+| [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -321,6 +325,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sisteryell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sisteryell/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -351,6 +356,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sisteryell/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sisteryell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0907-koko-eating-bananas](https://github.com/sisteryell/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
