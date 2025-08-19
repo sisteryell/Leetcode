@@ -89,6 +89,7 @@
 | [0131-palindrome-partitioning](https://github.com/sisteryell/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sisteryell/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/sisteryell/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sisteryell/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sisteryell/Leetcode/tree/master/0518-coin-change-ii) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/sisteryell/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/sisteryell/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/sisteryell/Leetcode/tree/master/0547-number-of-provinces) |
@@ -232,6 +234,7 @@
 | [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/sisteryell/Leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/sisteryell/Leetcode/tree/master/0826-soup-servings) |
