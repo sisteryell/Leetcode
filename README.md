@@ -279,6 +279,7 @@
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sisteryell/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sisteryell/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sisteryell/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -354,6 +355,7 @@
 | [0088-merge-sorted-array](https://github.com/sisteryell/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sisteryell/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -368,6 +370,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -501,10 +504,12 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
