@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sisteryell/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sisteryell/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sisteryell/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sisteryell/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sisteryell/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
@@ -126,6 +127,7 @@
 | [0022-generate-parentheses](https://github.com/sisteryell/Leetcode/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/sisteryell/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/sisteryell/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0686-repeated-string-match](https://github.com/sisteryell/Leetcode/tree/master/0686-repeated-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -176,6 +178,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/sisteryell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/sisteryell/Leetcode/tree/master/0547-number-of-provinces) |
@@ -256,6 +259,7 @@
 | [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sisteryell/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sisteryell/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sisteryell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/sisteryell/Leetcode/tree/master/0733-flood-fill) |
@@ -371,6 +375,7 @@
 | [0046-permutations](https://github.com/sisteryell/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sisteryell/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sisteryell/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search
