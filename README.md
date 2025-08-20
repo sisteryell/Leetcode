@@ -106,6 +106,7 @@
 | [0826-soup-servings](https://github.com/sisteryell/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sisteryell/Leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sisteryell/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sisteryell/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -267,6 +268,7 @@
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/sisteryell/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sisteryell/Leetcode/tree/master/0867-new-21-game) |
+| [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sisteryell/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -581,6 +583,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bucket Sort
 |  |
 | ------- |
