@@ -59,6 +59,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sisteryell/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -109,6 +110,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/sisteryell/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sisteryell/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -324,6 +326,7 @@
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sisteryell/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Combinatorics
@@ -377,6 +380,7 @@
 | [0234-palindrome-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sisteryell/Leetcode/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -488,6 +492,7 @@
 | [0042-trapping-rain-water](https://github.com/sisteryell/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sisteryell/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Database
 |  |
 | ------- |
