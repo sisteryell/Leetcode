@@ -241,6 +241,7 @@
 | [0733-flood-fill](https://github.com/sisteryell/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/sisteryell/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0904-leaf-similar-trees](https://github.com/sisteryell/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -314,6 +315,7 @@
 | [0226-invert-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sisteryell/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/sisteryell/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -552,6 +554,7 @@
 | [0226-invert-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sisteryell/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0904-leaf-similar-trees](https://github.com/sisteryell/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
