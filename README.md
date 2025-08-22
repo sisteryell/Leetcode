@@ -116,6 +116,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/sisteryell/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sisteryell/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -241,6 +242,7 @@
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/sisteryell/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sisteryell/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sisteryell/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -311,6 +313,7 @@
 | [0437-path-sum-iii](https://github.com/sisteryell/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Two Pointers
 |  |
@@ -547,6 +550,7 @@
 | [0437-path-sum-iii](https://github.com/sisteryell/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/sisteryell/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
