@@ -84,6 +84,7 @@
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sisteryell/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sisteryell/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sisteryell/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -361,6 +362,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sisteryell/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sisteryell/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Combinatorics
@@ -374,6 +376,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sisteryell/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sisteryell/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sisteryell/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
