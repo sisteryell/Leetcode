@@ -49,6 +49,7 @@
 | [0518-coin-change-ii](https://github.com/sisteryell/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
+| [0724-find-pivot-index](https://github.com/sisteryell/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sisteryell/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sisteryell/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/sisteryell/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -481,6 +482,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sisteryell/Leetcode/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sisteryell/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
