@@ -46,6 +46,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sisteryell/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/sisteryell/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/sisteryell/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/sisteryell/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
@@ -362,6 +363,7 @@
 | [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sisteryell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/sisteryell/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/sisteryell/Leetcode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
@@ -501,6 +503,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sisteryell/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/sisteryell/Leetcode/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/sisteryell/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sisteryell/Leetcode/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sisteryell/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
