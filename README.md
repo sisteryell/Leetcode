@@ -46,6 +46,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sisteryell/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/sisteryell/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/sisteryell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/sisteryell/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/sisteryell/Leetcode/tree/master/0518-coin-change-ii) |
@@ -362,6 +363,7 @@
 | [0283-move-zeroes](https://github.com/sisteryell/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sisteryell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/sisteryell/Leetcode/tree/master/0475-heaters) |
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sisteryell/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sisteryell/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -468,6 +470,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sisteryell/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sisteryell/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/sisteryell/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -552,6 +555,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sisteryell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sisteryell/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sisteryell/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0475-heaters](https://github.com/sisteryell/Leetcode/tree/master/0475-heaters) |
 | [0907-koko-eating-bananas](https://github.com/sisteryell/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
