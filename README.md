@@ -121,6 +121,7 @@
 | [0322-coin-change](https://github.com/sisteryell/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sisteryell/Leetcode/tree/master/0518-coin-change-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sisteryell/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/sisteryell/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sisteryell/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/sisteryell/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -197,6 +198,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sisteryell/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sisteryell/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0686-repeated-string-match](https://github.com/sisteryell/Leetcode/tree/master/0686-repeated-string-match) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sisteryell/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sisteryell/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
