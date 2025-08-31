@@ -79,6 +79,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sisteryell/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sisteryell/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -578,6 +579,7 @@
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sisteryell/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sisteryell/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -747,4 +749,5 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sisteryell/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
