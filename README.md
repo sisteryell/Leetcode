@@ -77,6 +77,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sisteryell/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sisteryell/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sisteryell/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -295,6 +296,7 @@
 | [0904-leaf-similar-trees](https://github.com/sisteryell/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sisteryell/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -323,6 +325,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sisteryell/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sisteryell/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sisteryell/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
