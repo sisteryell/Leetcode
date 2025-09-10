@@ -73,6 +73,7 @@
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1105-uncrossed-lines](https://github.com/sisteryell/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -302,6 +303,7 @@
 | [0904-leaf-similar-trees](https://github.com/sisteryell/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sisteryell/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -331,6 +333,7 @@
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sisteryell/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/sisteryell/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -445,6 +448,7 @@
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -498,6 +502,7 @@
 | [0695-max-area-of-island](https://github.com/sisteryell/Leetcode/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/sisteryell/Leetcode/tree/master/0869-similar-string-groups) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
