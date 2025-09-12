@@ -365,6 +365,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sisteryell/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sisteryell/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1738-maximal-network-rank](https://github.com/sisteryell/Leetcode/tree/master/1738-maximal-network-rank) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sisteryell/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sisteryell/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
