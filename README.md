@@ -71,6 +71,7 @@
 | [0940-fruit-into-baskets](https://github.com/sisteryell/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
+| [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -195,6 +196,7 @@
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/sisteryell/Leetcode/tree/master/0869-similar-string-groups) |
 | [0940-fruit-into-baskets](https://github.com/sisteryell/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sisteryell/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -237,6 +239,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sisteryell/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/sisteryell/Leetcode/tree/master/0869-similar-string-groups) |
+| [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sisteryell/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
