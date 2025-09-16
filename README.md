@@ -73,6 +73,7 @@
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
 | [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1032-satisfiability-of-equality-equations](https://github.com/sisteryell/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -245,6 +246,7 @@
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/sisteryell/Leetcode/tree/master/0869-similar-string-groups) |
 | [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1032-satisfiability-of-equality-equations](https://github.com/sisteryell/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sisteryell/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sisteryell/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -373,6 +375,7 @@
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/sisteryell/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/sisteryell/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1032-satisfiability-of-equality-equations](https://github.com/sisteryell/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sisteryell/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -532,6 +535,7 @@
 | [0695-max-area-of-island](https://github.com/sisteryell/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sisteryell/Leetcode/tree/master/0721-accounts-merge) |
 | [0869-similar-string-groups](https://github.com/sisteryell/Leetcode/tree/master/0869-similar-string-groups) |
+| [1032-satisfiability-of-equality-equations](https://github.com/sisteryell/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sisteryell/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
