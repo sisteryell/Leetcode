@@ -331,6 +331,7 @@
 | [0904-leaf-similar-trees](https://github.com/sisteryell/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sisteryell/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -363,6 +364,7 @@
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sisteryell/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sisteryell/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
@@ -383,6 +385,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/sisteryell/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sisteryell/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sisteryell/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sisteryell/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sisteryell/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -394,6 +397,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/isisteryell/Leetcode/tree/master/0207-course-schedule) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sisteryell/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sisteryell/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Math
 |  |
