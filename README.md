@@ -242,6 +242,7 @@
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sisteryell/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/sisteryell/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sisteryell/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sisteryell/Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/sisteryell/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -408,6 +409,7 @@
 | [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sisteryell/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/sisteryell/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/sisteryell/Leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
@@ -566,6 +568,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sisteryell/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sisteryell/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/sisteryell/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sisteryell/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sisteryell/Leetcode/tree/master/0735-asteroid-collision) |
@@ -788,6 +791,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/sisteryell/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sisteryell/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/sisteryell/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sisteryell/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
