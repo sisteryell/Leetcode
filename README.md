@@ -191,6 +191,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sisteryell/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sisteryell/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sisteryell/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/sisteryell/Leetcode/tree/master/0229-majority-element-ii) |
@@ -241,6 +242,7 @@
 | [0131-palindrome-partitioning](https://github.com/sisteryell/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sisteryell/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sisteryell/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/sisteryell/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sisteryell/Leetcode/tree/master/0394-decode-string) |
@@ -408,6 +410,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/sisteryell/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sisteryell/Leetcode/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sisteryell/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/sisteryell/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/sisteryell/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
