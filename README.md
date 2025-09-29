@@ -82,6 +82,7 @@
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1105-uncrossed-lines](https://github.com/sisteryell/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/sisteryell/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -164,6 +165,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/sisteryell/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/sisteryell/Leetcode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/sisteryell/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
