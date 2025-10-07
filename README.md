@@ -93,6 +93,7 @@
 | [1428-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1428-jump-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sisteryell/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sisteryell/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -214,6 +215,7 @@
 | [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sisteryell/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sisteryell/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sisteryell/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -296,6 +298,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/sisteryell/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sisteryell/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -644,6 +647,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/sisteryell/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -719,6 +723,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sisteryell/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sisteryell/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
