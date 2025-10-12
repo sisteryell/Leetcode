@@ -140,6 +140,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sisteryell/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sisteryell/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sisteryell/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sisteryell/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sisteryell/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sisteryell/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/sisteryell/Leetcode/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
 ## Hash Table
 |  |
@@ -463,6 +465,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sisteryell/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/sisteryell/Leetcode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sisteryell/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -544,6 +547,7 @@
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/sisteryell/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sisteryell/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sisteryell/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -801,6 +805,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sisteryell/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sisteryell/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sisteryell/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sisteryell/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Brainteaser
 |  |
 | ------- |
@@ -933,4 +938,8 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sisteryell/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sisteryell/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
