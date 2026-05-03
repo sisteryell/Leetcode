@@ -285,6 +285,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sisteryell/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/sisteryell/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/sisteryell/Leetcode/tree/master/0796-rotate-string) |
 | [0869-similar-string-groups](https://github.com/sisteryell/Leetcode/tree/master/0869-similar-string-groups) |
 | [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/sisteryell/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -847,6 +848,7 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/sisteryell/Leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/sisteryell/Leetcode/tree/master/0796-rotate-string) |
 ## Segment Tree
 |  |
 | ------- |
