@@ -127,6 +127,7 @@
 | [2636-maximum-subsequence-score](https://github.com/sisteryell/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sisteryell/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sisteryell/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sisteryell/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sisteryell/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sisteryell/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -190,6 +191,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sisteryell/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sisteryell/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sisteryell/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sisteryell/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
