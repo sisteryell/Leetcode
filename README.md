@@ -124,6 +124,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sisteryell/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sisteryell/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sisteryell/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/sisteryell/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sisteryell/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -744,6 +745,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sisteryell/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sisteryell/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sisteryell/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/sisteryell/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
