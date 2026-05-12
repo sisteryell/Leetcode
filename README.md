@@ -99,6 +99,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sisteryell/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sisteryell/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -329,6 +330,7 @@
 | [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sisteryell/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sisteryell/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sisteryell/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -677,6 +679,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/sisteryell/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sisteryell/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sisteryell/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sisteryell/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
