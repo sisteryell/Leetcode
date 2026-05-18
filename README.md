@@ -86,6 +86,7 @@
 | [1105-uncrossed-lines](https://github.com/sisteryell/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sisteryell/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1306-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sisteryell/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sisteryell/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -241,6 +242,7 @@
 | [1006-vowel-spellchecker](https://github.com/sisteryell/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/sisteryell/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sisteryell/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/sisteryell/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sisteryell/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sisteryell/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -430,6 +432,7 @@
 | [1229-shortest-path-with-alternating-colors](https://github.com/sisteryell/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1306-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1306-jump-game-iii) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sisteryell/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1345-jump-game-iv](https://github.com/sisteryell/Leetcode/tree/master/1345-jump-game-iv) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sisteryell/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
