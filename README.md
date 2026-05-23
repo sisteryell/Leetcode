@@ -105,6 +105,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sisteryell/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sisteryell/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/sisteryell/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sisteryell/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
