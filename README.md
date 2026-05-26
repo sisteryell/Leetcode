@@ -264,6 +264,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sisteryell/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/sisteryell/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sisteryell/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -323,6 +324,7 @@
 | [2429-design-a-food-rating-system](https://github.com/sisteryell/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sisteryell/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sisteryell/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/sisteryell/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
