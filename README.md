@@ -115,6 +115,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sisteryell/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sisteryell/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sisteryell/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sisteryell/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -568,6 +569,7 @@
 | [0611-valid-triangle-number](https://github.com/sisteryell/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/sisteryell/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sisteryell/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sisteryell/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sisteryell/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -781,6 +783,7 @@
 | [0498-diagonal-traverse](https://github.com/sisteryell/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sisteryell/Leetcode/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sisteryell/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sisteryell/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sisteryell/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sisteryell/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
