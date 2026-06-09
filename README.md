@@ -155,6 +155,7 @@
 | [3640-trionic-array-ii](https://github.com/sisteryell/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sisteryell/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/sisteryell/Leetcode/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sisteryell/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sisteryell/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sisteryell/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sisteryell/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -370,6 +371,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sisteryell/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sisteryell/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sisteryell/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sisteryell/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sisteryell/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
