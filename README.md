@@ -338,6 +338,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sisteryell/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3612-process-string-with-special-operations-i](https://github.com/sisteryell/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/sisteryell/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sisteryell/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -808,6 +809,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/sisteryell/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sisteryell/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/sisteryell/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/sisteryell/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/sisteryell/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
