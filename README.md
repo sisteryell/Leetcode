@@ -161,6 +161,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/sisteryell/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sisteryell/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sisteryell/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sisteryell/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sisteryell/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sisteryell/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -281,6 +282,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sisteryell/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sisteryell/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -399,6 +401,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sisteryell/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sisteryell/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -797,6 +800,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2574-left-and-right-sum-differences](https://github.com/sisteryell/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sisteryell/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Shortest Path
 |  |
@@ -876,6 +880,7 @@
 | [0169-majority-element](https://github.com/sisteryell/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sisteryell/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sisteryell/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -938,6 +943,7 @@
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sisteryell/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sisteryell/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sisteryell/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sisteryell/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -1027,6 +1033,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sisteryell/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sisteryell/Leetcode/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
