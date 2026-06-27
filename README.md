@@ -141,6 +141,7 @@
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sisteryell/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/sisteryell/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sisteryell/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sisteryell/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sisteryell/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sisteryell/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -278,6 +279,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sisteryell/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/sisteryell/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sisteryell/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sisteryell/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sisteryell/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -652,6 +654,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sisteryell/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sisteryell/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sisteryell/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sisteryell/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sisteryell/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sisteryell/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
