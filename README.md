@@ -449,6 +449,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sisteryell/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sisteryell/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sisteryell/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sisteryell/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sisteryell/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -490,6 +491,7 @@
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sisteryell/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sisteryell/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
@@ -1093,8 +1095,13 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sisteryell/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sisteryell/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
