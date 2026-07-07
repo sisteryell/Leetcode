@@ -1,17 +1,13 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        long long sum=0,num=0;
-        string str=to_string(n);
-        string wd="";
-        for(char ch: str){
-            if(ch!='0'){
-                wd=wd+ch;
-                sum+=ch-'0';
-            }
+        int sum=0,num=0,len=1;
+        while(n){
+            num+=(n%10)*len;
+            if(n%10!=0)len=len*10;
+            sum+=n%10;
+            n/=10;
         }
-        if(wd=="")return 0;
-        num=stoi(wd);
-        return sum*num;
+        return (long long)sum*num;
     }
 };
