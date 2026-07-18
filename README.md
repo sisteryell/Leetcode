@@ -117,6 +117,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sisteryell/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sisteryell/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sisteryell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sisteryell/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sisteryell/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -551,6 +552,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sisteryell/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sisteryell/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sisteryell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sisteryell/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/sisteryell/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sisteryell/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1102,6 +1104,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sisteryell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sisteryell/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Bitmask
 |  |
