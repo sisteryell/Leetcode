@@ -149,6 +149,7 @@
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sisteryell/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/sisteryell/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sisteryell/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sisteryell/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sisteryell/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -504,6 +505,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sisteryell/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sisteryell/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
@@ -664,6 +666,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/sisteryell/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sisteryell/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sisteryell/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -817,6 +820,7 @@
 | [2429-design-a-food-rating-system](https://github.com/sisteryell/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sisteryell/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/sisteryell/Leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sisteryell/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
@@ -907,6 +911,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sisteryell/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/sisteryell/Leetcode/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sisteryell/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sisteryell/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1126,6 +1131,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sisteryell/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sisteryell/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
