@@ -363,6 +363,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/sisteryell/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sisteryell/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sisteryell/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sisteryell/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3612-process-string-with-special-operations-i](https://github.com/sisteryell/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -403,6 +404,7 @@
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sisteryell/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sisteryell/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sisteryell/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sisteryell/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -572,6 +574,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sisteryell/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/sisteryell/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sisteryell/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sisteryell/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sisteryell/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -890,6 +893,7 @@
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/sisteryell/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sisteryell/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1122,6 +1126,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sisteryell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sisteryell/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sisteryell/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
 |  |
 | ------- |
