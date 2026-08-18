@@ -162,6 +162,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sisteryell/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sisteryell/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sisteryell/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sisteryell/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -303,6 +304,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sisteryell/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sisteryell/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/sisteryell/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sisteryell/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
