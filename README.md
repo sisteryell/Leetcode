@@ -71,6 +71,7 @@
 | [0740-delete-and-earn](https://github.com/sisteryell/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sisteryell/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/sisteryell/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/sisteryell/Leetcode/tree/master/0835-image-overlap) |
 | [0869-similar-string-groups](https://github.com/sisteryell/Leetcode/tree/master/0869-similar-string-groups) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/sisteryell/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/sisteryell/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -699,6 +700,7 @@
 | [0498-diagonal-traverse](https://github.com/sisteryell/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/sisteryell/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sisteryell/Leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/sisteryell/Leetcode/tree/master/0835-image-overlap) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/sisteryell/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
