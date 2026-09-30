@@ -120,6 +120,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/sisteryell/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sisteryell/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sisteryell/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1861-rotating-the-box](https://github.com/sisteryell/Leetcode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/sisteryell/Leetcode/tree/master/1872-stone-game-viii) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sisteryell/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -677,6 +678,7 @@
 | [0611-valid-triangle-number](https://github.com/sisteryell/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/sisteryell/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/sisteryell/Leetcode/tree/master/0768-partition-labels) |
+| [1861-rotating-the-box](https://github.com/sisteryell/Leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sisteryell/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sisteryell/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sisteryell/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -720,6 +722,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sisteryell/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sisteryell/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1861-rotating-the-box](https://github.com/sisteryell/Leetcode/tree/master/1861-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sisteryell/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
