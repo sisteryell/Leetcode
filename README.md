@@ -139,6 +139,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/sisteryell/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sisteryell/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sisteryell/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sisteryell/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sisteryell/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sisteryell/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/sisteryell/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -438,6 +439,7 @@
 | [2029-stone-game-ix](https://github.com/sisteryell/Leetcode/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sisteryell/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/isisteryell/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sisteryell/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sisteryell/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sisteryell/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sisteryell/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -861,6 +863,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/sisteryell/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sisteryell/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sisteryell/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sisteryell/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sisteryell/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sisteryell/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -895,6 +898,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sisteryell/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sisteryell/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sisteryell/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sisteryell/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -994,6 +998,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/sisteryell/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sisteryell/Leetcode/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sisteryell/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sisteryell/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/sisteryell/Leetcode/tree/master/2540-minimum-common-value) |
