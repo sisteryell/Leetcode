@@ -461,6 +461,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sisteryell/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sisteryell/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sisteryell/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sisteryell/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sisteryell/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sisteryell/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sisteryell/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -638,6 +639,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sisteryell/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/sisteryell/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sisteryell/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sisteryell/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sisteryell/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sisteryell/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
