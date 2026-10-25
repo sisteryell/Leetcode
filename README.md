@@ -87,6 +87,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1105-uncrossed-lines](https://github.com/sisteryell/Leetcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sisteryell/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1254-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sisteryell/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sisteryell/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sisteryell/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -514,6 +515,7 @@
 | [0904-leaf-similar-trees](https://github.com/sisteryell/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1306-jump-game-iii) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sisteryell/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -557,6 +559,7 @@
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sisteryell/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1254-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1306-jump-game-iii) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/sisteryell/Leetcode/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1345-jump-game-iv](https://github.com/sisteryell/Leetcode/tree/master/1345-jump-game-iv) |
@@ -743,6 +746,7 @@
 | [0945-snakes-and-ladders](https://github.com/sisteryell/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sisteryell/Leetcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/sisteryell/Leetcode/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sisteryell/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sisteryell/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
@@ -1252,6 +1256,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sisteryell/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/sisteryell/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
