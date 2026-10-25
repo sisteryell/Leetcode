@@ -9,9 +9,6 @@ class Solution {
             return;
         }
         grid[r][c] = 1;
-        if(r == 0 || r == rows-1 || c == 0 || c == cols-1) {
-            touch = true;
-        }
         int dr[4] = {0, 0, -1, 1};
         int dc[4] = {-1, 1, 0, 0};
         for(int d=0; d<4; d++) {
@@ -24,13 +21,26 @@ public:
         cols = grid[0].size();
         int closed = 0;
         for(int r=0; r<rows; r++) {
+            if(grid[r][0] == 0) {
+                dfs(r, 0, grid);
+            }
+            if(grid[r][cols-1] == 0) {
+                dfs(r, cols-1, grid);
+            } 
+        }
+        for(int c=0; c<cols; c++) {
+            if(grid[0][c] == 0) {
+                dfs(0, c, grid);
+            }
+            if(grid[rows-1][c] == 0) {
+                dfs(rows-1, c, grid);
+            } 
+        }
+        for(int r=0; r<rows; r++) {
             for(int c=0; c<cols; c++) {
                 if(grid[r][c] == 0) {
-                    touch = false;
+                    closed++;
                     dfs(r, c, grid);
-                    if(!touch) {
-                        closed++;
-                    }
                 }
             }
         }
