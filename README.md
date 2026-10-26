@@ -32,6 +32,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sisteryell/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sisteryell/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sisteryell/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sisteryell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sisteryell/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sisteryell/Leetcode/tree/master/0162-find-peak-element) |
@@ -224,6 +225,7 @@
 | [0118-pascals-triangle](https://github.com/sisteryell/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/sisteryell/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sisteryell/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sisteryell/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/sisteryell/Leetcode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/sisteryell/Leetcode/tree/master/0279-perfect-squares) |
@@ -285,6 +287,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sisteryell/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sisteryell/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sisteryell/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/sisteryell/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sisteryell/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sisteryell/Leetcode/tree/master/0146-lru-cache) |
@@ -369,6 +372,7 @@
 | [0115-distinct-subsequences](https://github.com/sisteryell/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/sisteryell/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sisteryell/Leetcode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/sisteryell/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sisteryell/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -940,6 +944,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sisteryell/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sisteryell/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/sisteryell/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sisteryell/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
@@ -1001,6 +1006,7 @@
 | [0078-subsets](https://github.com/sisteryell/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sisteryell/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sisteryell/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/sisteryell/Leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/sisteryell/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/sisteryell/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -1195,6 +1201,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sisteryell/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sisteryell/Leetcode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sisteryell/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
