@@ -184,6 +184,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sisteryell/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sisteryell/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sisteryell/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sisteryell/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sisteryell/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-trionic-array-ii](https://github.com/sisteryell/Leetcode/tree/master/3640-trionic-array-ii) |
@@ -534,6 +535,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sisteryell/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sisteryell/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sisteryell/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
@@ -577,6 +579,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/sisteryell/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sisteryell/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sisteryell/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sisteryell/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
@@ -760,6 +763,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sisteryell/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sisteryell/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sisteryell/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sisteryell/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sisteryell/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sisteryell/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1265,6 +1269,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sisteryell/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sisteryell/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sisteryell/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
