@@ -435,6 +435,7 @@
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sisteryell/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3867-lexicographically-smallest-string-after-adjacent-removals](https://github.com/sisteryell/Leetcode/tree/master/3867-lexicographically-smallest-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sisteryell/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sisteryell/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -943,6 +944,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sisteryell/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sisteryell/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sisteryell/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -977,6 +979,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/sisteryell/Leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sisteryell/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -1292,6 +1295,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sisteryell/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sisteryell/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sisteryell/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
 |  |
 | ------- |
