@@ -54,6 +54,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/isisteryell/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sisteryell/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sisteryell/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sisteryell/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0475-heaters](https://github.com/sisteryell/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/sisteryell/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/sisteryell/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -627,6 +628,7 @@
 | [0231-power-of-two](https://github.com/sisteryell/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/sisteryell/Leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/sisteryell/Leetcode/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sisteryell/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sisteryell/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/sisteryell/Leetcode/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sisteryell/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
