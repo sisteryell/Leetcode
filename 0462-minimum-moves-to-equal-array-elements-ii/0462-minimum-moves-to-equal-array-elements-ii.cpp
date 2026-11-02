@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int minMoves2(vector<int>& nums) {
+        int n = nums.size();
+        nth_element(nums.begin(), nums.begin() + n / 2, nums.end());
+        int median = nums[n / 2];
+        int ans = 0;
+        for(int num : nums) {
+            cout<<num<<" ";
+            ans += abs(num - median);
+        }
+        return ans;
+    }
+};
