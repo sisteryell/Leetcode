@@ -159,6 +159,7 @@
 | [2636-maximum-subsequence-score](https://github.com/sisteryell/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sisteryell/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/sisteryell/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sisteryell/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sisteryell/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/sisteryell/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -337,6 +338,7 @@
 | [2540-minimum-common-value](https://github.com/sisteryell/Leetcode/tree/master/2540-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sisteryell/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/sisteryell/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/sisteryell/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sisteryell/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sisteryell/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -833,6 +835,7 @@
 | [1871-jump-game-vii](https://github.com/sisteryell/Leetcode/tree/master/1871-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sisteryell/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sisteryell/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2747-count-zero-request-servers](https://github.com/sisteryell/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sisteryell/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sisteryell/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
@@ -920,6 +923,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sisteryell/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/sisteryell/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/sisteryell/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/sisteryell/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/sisteryell/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/sisteryell/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sisteryell/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
