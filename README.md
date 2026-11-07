@@ -126,6 +126,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sisteryell/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/sisteryell/Leetcode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/sisteryell/Leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/sisteryell/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sisteryell/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sisteryell/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -952,6 +953,7 @@
 | [0744-network-delay-time](https://github.com/sisteryell/Leetcode/tree/master/0744-network-delay-time) |
 | [1397-search-suggestions-system](https://github.com/sisteryell/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1612-avoid-flood-in-the-city](https://github.com/sisteryell/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1882-process-tasks-using-servers](https://github.com/sisteryell/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/sisteryell/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sisteryell/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sisteryell/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
