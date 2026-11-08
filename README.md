@@ -251,6 +251,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/sisteryell/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/sisteryell/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sisteryell/Leetcode/tree/master/0867-new-21-game) |
+| [0887-super-egg-drop](https://github.com/sisteryell/Leetcode/tree/master/0887-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sisteryell/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/sisteryell/Leetcode/tree/master/1105-uncrossed-lines) |
@@ -648,6 +649,7 @@
 | [0830-largest-triangle-area](https://github.com/sisteryell/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sisteryell/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/sisteryell/Leetcode/tree/master/0867-new-21-game) |
+| [0887-super-egg-drop](https://github.com/sisteryell/Leetcode/tree/master/0887-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sisteryell/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -1058,6 +1060,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/sisteryell/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/sisteryell/Leetcode/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/sisteryell/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0887-super-egg-drop](https://github.com/sisteryell/Leetcode/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/sisteryell/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sisteryell/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
