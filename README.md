@@ -180,6 +180,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sisteryell/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sisteryell/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sisteryell/Leetcode/tree/master/3321-type-of-triangle) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sisteryell/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sisteryell/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sisteryell/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -351,6 +352,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sisteryell/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sisteryell/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sisteryell/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sisteryell/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sisteryell/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -436,6 +438,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/sisteryell/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sisteryell/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sisteryell/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sisteryell/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sisteryell/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sisteryell/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sisteryell/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -556,6 +559,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sisteryell/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sisteryell/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sisteryell/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sisteryell/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sisteryell/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sisteryell/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -710,6 +714,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sisteryell/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sisteryell/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sisteryell/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sisteryell/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sisteryell/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sisteryell/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sisteryell/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
