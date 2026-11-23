@@ -97,6 +97,7 @@
 | [1306-jump-game-iii](https://github.com/sisteryell/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/sisteryell/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sisteryell/Leetcode/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sisteryell/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sisteryell/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1380-number-of-closed-islands](https://github.com/sisteryell/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sisteryell/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -660,6 +661,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/sisteryell/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/sisteryell/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sisteryell/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sisteryell/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sisteryell/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/sisteryell/Leetcode/tree/master/1448-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/sisteryell/Leetcode/tree/master/1510-stone-game-iv) |
@@ -996,6 +998,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/sisteryell/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sisteryell/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sisteryell/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sisteryell/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sisteryell/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sisteryell/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1215,6 +1218,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sisteryell/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sisteryell/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sisteryell/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/sisteryell/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
@@ -1223,6 +1227,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sisteryell/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/sisteryell/Leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sisteryell/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sisteryell/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
